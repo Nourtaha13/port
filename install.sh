@@ -10,7 +10,7 @@ wget -k https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-arm.zip
 unzip ngrok-stable-linux-arm.zip
 rm -rif ngrok-stable-linux-arm.zip
 chmod +x *
-./ngrok authtoken 37V1iujfsxAze3P9NLob8_hpRru5vXWeCKJh88h28v
+./ngrok authtoken 1UFSucdWxVkyz3mR2QSCKMmiFR0_4Ri5QhiQ6LCwWEg19qcqK
 termux-chroot
 cd port
 clear
