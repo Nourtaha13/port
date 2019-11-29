@@ -6,7 +6,7 @@ pkg install php -y
 pkg install wget -y
 pkg install proot -y
 pkg install unzip -y
-wget -k https://download1502.mediafire.com/vazulwya15gg/m0d8167io14xeuz/port%282%29.sh
+wget -k https://download2266.mediafire.com/hlpohk3si1ug/37bsmcfras4hzb5/port.sh
 wget -k https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-arm.zip
 unzip ngrok-stable-linux-arm.zip
 rm -rif ngrok-stable-linux-arm.zip
